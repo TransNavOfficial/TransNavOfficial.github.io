@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.tnoffi.com/posts/ae7cb75e.html</loc>
+    
+    <lastmod>2024-01-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.tnoffi.com/posts/83c7dbef.html</loc>
     
     <lastmod>2024-01-06</lastmod>
@@ -23,15 +32,6 @@
     <loc>https://www.tnoffi.com/posts/a84b34c2.html</loc>
     
     <lastmod>2024-01-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.tnoffi.com/posts/ae7cb75e.html</loc>
-    
-    <lastmod>2023-12-05</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -225,7 +225,7 @@
   </url>
   
   <url>
-    <loc>https://www.tnoffi.com/tags/DigitalTrans/</loc>
+    <loc>https://www.tnoffi.com/tags/TransCloud/</loc>
     <lastmod>2024-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -239,7 +239,7 @@
   </url>
   
   <url>
-    <loc>https://www.tnoffi.com/tags/TransCloud/</loc>
+    <loc>https://www.tnoffi.com/tags/DigitalTrans/</loc>
     <lastmod>2024-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -247,13 +247,6 @@
   
   <url>
     <loc>https://www.tnoffi.com/tags/TransHall/</loc>
-    <lastmod>2024-01-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.tnoffi.com/tags/TransNav/</loc>
     <lastmod>2024-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -281,6 +274,13 @@
   </url>
   
   <url>
+    <loc>https://www.tnoffi.com/tags/TransNav/</loc>
+    <lastmod>2024-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.tnoffi.com/tags/TransLetter/</loc>
     <lastmod>2024-01-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -302,20 +302,6 @@
   </url>
   
   <url>
-    <loc>https://www.tnoffi.com/tags/%E8%93%9D%E5%A4%A9%E7%B2%89%E6%A2%A6/</loc>
-    <lastmod>2024-01-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.tnoffi.com/tags/%E6%97%B6%E9%97%B4%E8%BD%B4/</loc>
-    <lastmod>2024-01-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.tnoffi.com/tags/%E9%A1%B9%E7%9B%AE/</loc>
     <lastmod>2024-01-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -330,7 +316,7 @@
   </url>
   
   <url>
-    <loc>https://www.tnoffi.com/tags/%E5%85%AC%E5%91%8A/</loc>
+    <loc>https://www.tnoffi.com/tags/%E8%93%9D%E5%A4%A9%E7%B2%89%E6%A2%A6/</loc>
     <lastmod>2024-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -338,6 +324,20 @@
   
   <url>
     <loc>https://www.tnoffi.com/tags/TransNavOfficial/</loc>
+    <lastmod>2024-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.tnoffi.com/tags/%E5%85%AC%E5%91%8A/</loc>
+    <lastmod>2024-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.tnoffi.com/tags/%E6%97%B6%E9%97%B4%E8%BD%B4/</loc>
     <lastmod>2024-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -367,14 +367,14 @@
   </url>
   
   <url>
-    <loc>https://www.tnoffi.com/categories/%E5%85%AC%E5%91%8A%E7%B1%BB/</loc>
+    <loc>https://www.tnoffi.com/categories/%E4%BA%A7%E5%93%81%E7%B1%BB/%E9%A1%B9%E7%9B%AE%E7%B1%BB/</loc>
     <lastmod>2024-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.tnoffi.com/categories/%E4%BA%A7%E5%93%81%E7%B1%BB/%E9%A1%B9%E7%9B%AE%E7%B1%BB/</loc>
+    <loc>https://www.tnoffi.com/categories/%E5%85%AC%E5%91%8A%E7%B1%BB/</loc>
     <lastmod>2024-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
